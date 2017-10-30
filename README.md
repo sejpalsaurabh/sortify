@@ -1,2 +1,2 @@
-# url-sortify
-URL Shortener using Spring &amp; Hibernate - with Basic Analytics
+# url-shortener
+URL Shortener Project with Spring &amp; Hibernate
